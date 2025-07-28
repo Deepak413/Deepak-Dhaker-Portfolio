@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Deepak-Dhaker-Portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/Deepak-Dhaker-Portfolio/static/js/main.a586b676.js",
-    "static/media/HeroImage.jpg": "/Deepak-Dhaker-Portfolio/static/media/HeroImage.305a654ee987dd774147.jpg",
+    "main.js": "/Deepak-Dhaker-Portfolio/static/js/main.8f0b55d5.js",
+    "static/media/Deepak Photo1.jpeg": "/Deepak-Dhaker-Portfolio/static/media/Deepak Photo1.2855e7643a72f1adfbb5.jpeg",
     "index.html": "/Deepak-Dhaker-Portfolio/index.html",
     "main.bf538fe7.css.map": "/Deepak-Dhaker-Portfolio/static/css/main.bf538fe7.css.map",
-    "main.a586b676.js.map": "/Deepak-Dhaker-Portfolio/static/js/main.a586b676.js.map"
+    "main.8f0b55d5.js.map": "/Deepak-Dhaker-Portfolio/static/js/main.8f0b55d5.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.a586b676.js"
+    "static/js/main.8f0b55d5.js"
   ]
 }
