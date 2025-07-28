@@ -1,5 +1,5 @@
 export const Bio = {
-  name: "Deepak Dhaker",
+  name: "Deepak",
   roles: [
     "Software Developer",
     "MERN Stack Developer",
@@ -7,7 +7,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am a highly motivated and versatile individual, always eager to learn new technologies. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am a highly motivated, always eager to learn new technologies. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Deepak413",
   resume:
     "https://drive.google.com/drive/folders/1QcV6rIIsPHgqAWcZafJUpwjH9T16w0KN",
