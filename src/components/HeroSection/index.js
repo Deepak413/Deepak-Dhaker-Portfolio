@@ -2,7 +2,8 @@ import React from 'react'
 import HeroBgAnimation from '../HeroBgAnimation'
 import { HeroContainer, HeroBg, HeroLeftContainer, Img, HeroRightContainer, HeroInnerContainer, TextLoop, Title, Span, SubTitle,SocialMediaIcons,SocialMediaIcon, ResumeButtonGroup, ResumeButton } from './HeroStyle'
 // import HeroImg from '../../images/HeroImage.jpg'
-import HeroImg from '../../images/Deepak Photo1.jpeg'
+// import HeroImg from '../../images/Deepak Photo1.jpeg';
+import HeroImg from '../../images/deepak photo doc.jpeg'
 import Typewriter from 'typewriter-effect';
 import { Bio } from '../../data/constants';
 
