@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/deepak-dhaker-portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/deepak-dhaker-portfolio/static/js/main.2750aaaa.js",
-    "static/media/deepak photo doc.jpeg": "/deepak-dhaker-portfolio/static/media/deepak photo doc.9dab5d159c38e48f3e72.jpeg",
-    "index.html": "/deepak-dhaker-portfolio/index.html",
-    "main.bf538fe7.css.map": "/deepak-dhaker-portfolio/static/css/main.bf538fe7.css.map",
-    "main.2750aaaa.js.map": "/deepak-dhaker-portfolio/static/js/main.2750aaaa.js.map"
+    "main.css": "/Deepak-Dhaker-Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/Deepak-Dhaker-Portfolio/static/js/main.ae89b31c.js",
+    "static/media/deepak photo doc.jpeg": "/Deepak-Dhaker-Portfolio/static/media/deepak photo doc.9dab5d159c38e48f3e72.jpeg",
+    "index.html": "/Deepak-Dhaker-Portfolio/index.html",
+    "main.bf538fe7.css.map": "/Deepak-Dhaker-Portfolio/static/css/main.bf538fe7.css.map",
+    "main.ae89b31c.js.map": "/Deepak-Dhaker-Portfolio/static/js/main.ae89b31c.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.2750aaaa.js"
+    "static/js/main.ae89b31c.js"
   ]
 }
