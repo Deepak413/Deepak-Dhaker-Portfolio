@@ -1,7 +1,7 @@
 {
   "name": "deepak-dhaker-portfolio",
   "version": "0.1.0",
-  "homepage": "https://Deepak413.github.io/Deepak-Dhaker-Portfolio",
+  "homepage": "https://deepak413.github.io/deepak-dhaker-portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
