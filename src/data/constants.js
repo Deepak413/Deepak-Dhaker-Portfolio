@@ -99,7 +99,7 @@ export const skills = [
       {
         name: "Netlify",
         image:
-          "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+          "https://images.seeklogo.com/logo-png/27/1/netlify-logo-png_seeklogo-273744.png",
       },
       {
         name: "Render",
@@ -172,7 +172,7 @@ export const experiences = [
     img: "https://www.drupal.org/files/Capgemini_Logo_2COL_RGB.png",
     role: "Software Engineer",
     company: "Capgemini Technology Services India Limited",
-    date: "Nov 2023 - present",
+    date: "Nov 2023 - present (2+ years)",
     desc:"Automated business workflows using Apex classes, triggers, and flows, reducing manual effort by 90%. Built custom objects and relationships to streamline onboarding, cutting time by 30%. Resolved critical production issues, decreasing bug resolution time from 3 days to 12 hours. Collaborated in Agile sprints to deliver scalable Salesforce features, leveraging Git, VS Code, and SFDX.",
     skills: [
       "LWC",
@@ -232,7 +232,7 @@ export const projects = [
     description:
       "Built a full-stack eCommerce website with over 20 pages, featuring JWT authentication, role-based access, and a responsive UI using React, Redux, and React Router. Developed a dynamic product catalog with filtering, search, pagination, and detailed product pages with reviews and ratings. Integrated cart management, CRUD operations, and Stripe for seamless checkout. Enabled user registration, login, profile updates, and order management. Enhanced UX with in-app notifications and validation popups, implemented security with data validation and bcrypt password hashing, and optimized image delivery using Cloudinary CDN.",
     image:
-      "https://private-user-images.githubusercontent.com/98450154/471259790-63bff356-2dba-4e47-b099-295a1fbaa6e3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY2NjA5NjksIm5iZiI6MTc2NjY2MDY2OSwicGF0aCI6Ii85ODQ1MDE1NC80NzEyNTk3OTAtNjNiZmYzNTYtMmRiYS00ZTQ3LWIwOTktMjk1YTFmYmFhNmUzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI1VDExMDQyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNmMmJhZDU0MmM4YmVmN2Q3MTJhNDYxMzk0Yjk4NGJlZWRjOTc0MTU5MjEyNTExNmIyZmE4YTMyNzU4OWE0ZjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Q_oSLl9Hxc91AEeC-R8nvR2mpiw7jF_BhHeMlK3HisQ",
+      "https://private-user-images.githubusercontent.com/98450154/471259790-63bff356-2dba-4e47-b099-295a1fbaa6e3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI0Nzg2MTYsIm5iZiI6MTc3MjQ3ODMxNiwicGF0aCI6Ii85ODQ1MDE1NC80NzEyNTk3OTAtNjNiZmYzNTYtMmRiYS00ZTQ3LWIwOTktMjk1YTFmYmFhNmUzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzAyVDE5MDUxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQxMjMzZjc0MzZlN2VlZTkyNDRlOWEzNjM4ODQ3MWU0NmE4MjBmN2U2OWUyNDk1NGYxMzMxNjVhOWIyY2RjMDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.x5oOVVr2tFTRB3nAMZ3kMIAS0oF7N2_EJLe3YpR1Vj4",
     tags: [
       "React Js",
       "JavaScript",
